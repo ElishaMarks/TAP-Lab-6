@@ -10,7 +10,10 @@
       prefWidth="400" prefHeight="300">
 
     <children>
+
         <Label fx:id="monthYearLabel"  lineSpacing="20"/>
         <GridPane fx:id="calendarGrid"  />
     </children>
+
 </VBox>
+
